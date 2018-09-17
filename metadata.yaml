@@ -1,0 +1,39 @@
+_repo: The-Decameron-Day-6-to-Day-10-Containing-an-hundred-pleasant-Novels_52618
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Florio, John
+    aliases:
+    - Florio, Giovanni
+    - Florio, Iohn
+    deathdate: 1625
+    gutenberg_agent_id: '44839'
+    url: http://www.gutenberg.org/2009/agents/44839
+creator:
+  author:
+    agent_name: Boccaccio, Giovanni
+    birthdate: 1313
+    deathdate: 1375
+    gutenberg_agent_id: '1279'
+    url: http://www.gutenberg.org/2009/agents/1279
+    wikipedia: http://en.wikipedia.org/wiki/Giovanni_Boccaccio
+description: ''
+gutenberg_issued: '2016-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plague -- Europe -- History -- Fiction'
+- !lcsh 'Storytelling -- Fiction'
+- !lcsh 'Allegories'
+- !lcsh 'Frame-stories'
+- !lcc 'PQ'
+- GITenberg
+title: 'The Decameron (Day 6 to Day 10)
+
+  Containing an hundred pleasant Novels'
+url: http://www.gutenberg.org/ebooks/52618
